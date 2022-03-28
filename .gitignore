@@ -5,5 +5,5 @@ tmp/
 #Файлы не нужны
 Thumbs.db
 .DS_Store
-
+.iml
 
