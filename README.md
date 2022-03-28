@@ -5,5 +5,5 @@
 > Выкидывает исключение ArithmeticException из-за деления на 0.
 > Способ решения, переписать с тернарным оператором вариацию деления прим:
         
-        `BinaryOperator<Integer> div = (x, y) -> y != 0 ? x / y : null;`
+`BinaryOperator<Integer> div = (x, y) -> y != 0 ? x / y : null;`
         
